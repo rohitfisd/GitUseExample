@@ -18,6 +18,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
       print("Application did finish launching")
       return true
     }
+    
+    
+    
+    
+    
+    
+
 
     // MARK: UISceneSession Lifecycle
 
